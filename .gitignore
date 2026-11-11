@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+model/solar_rf_model.joblib
+model/model_metrics.json
+model/test_model.joblib
+model/test_metrics.json
+.streamlit/
+*.pkl
+*.joblib
+*.xls
+*.xlsx
+.ipynb_checkpoints/
+.env
